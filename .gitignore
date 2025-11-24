@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Codio (optional)
+.codio
+
+# OS
+.DS_Store
