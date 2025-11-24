@@ -33,5 +33,3 @@ Standard Library only
 ## 📄 License
 
 MIT License © 2025 Gregory Dearing
-
-----
